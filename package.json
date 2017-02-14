@@ -1,0 +1,24 @@
+{
+  "name": "electron-boilerplate",
+  "version": "1.0.0",
+  "description": "Electron boilerplate",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/grovertb/electron-boilerplate",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo",
+    "boilerplate",
+    "grovertb"
+  ],
+  "author": "GroverTB",
+  "devDependencies": {
+    "electron": "^1.4.1",
+    "electron-packager": "^8.5.1"
+  }
+}
