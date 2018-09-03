@@ -1,1 +1,1 @@
-"# electron-boilerplate" 
+# electron-boilerplate 
