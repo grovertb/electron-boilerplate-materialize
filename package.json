@@ -17,8 +17,9 @@
     "grovertb"
   ],
   "author": "GroverTB",
+  "license": "MIT",
   "devDependencies": {
-    "electron": "^1.4.1",
-    "electron-packager": "^8.5.1"
+    "electron": "^2.0.0",
+    "electron-packager": "^12.0.0"
   }
 }
